@@ -35,7 +35,7 @@
     </dependencies>
 
     <build>
-        <finalName>jenkinProj3</finalName>
+        <finalName>jenkin-Webapp</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven
             defaults (may be moved to parent pom) -->
             <plugins>
